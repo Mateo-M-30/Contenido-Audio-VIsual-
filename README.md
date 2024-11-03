@@ -20,5 +20,5 @@ El propósito de este proyecto es proporcionar una plataforma simple para gestio
 ## Instrucciones de Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/gestor-contenido-audiovisual.git
+   git clone https://github.com/Mateo-M-30/Contenido-Audio-VIsual-.git
    cd gestor-contenido-audiovisual
